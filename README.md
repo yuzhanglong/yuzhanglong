@@ -1,16 +1,13 @@
-### Hi there 👋
+### Enjoy Coding~ 👋
 
-<!--
-**yuzhanglong/yuzhanglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :smiley: **Name**: YuZhanglong
+- :e-mail: **Email**: yuzl1123@163.com
+- :school_satchel: **Major**: Software Engineering
 
-Here are some ideas to get you started:
+### Github State
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![yzl github stats](https://github-readme-stats.vercel.app/api?username=yuzhanglong&count_private=true&show_icons=true&cache_seconds=0)](https://github.com/yuzhanglong)
+
+### Languages
+
+[![yzl github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhanglong&cache_seconds=0)](https://github.com/yuzhanglong)
