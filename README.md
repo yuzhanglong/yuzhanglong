@@ -10,4 +10,4 @@
 
 ### Languages
 
-[![yzl github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhanglong&cache_seconds=0)](https://github.com/yuzhanglong)
+[![yzl github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhanglong&cache_seconds=0&hide=java)](https://github.com/yuzhanglong)
