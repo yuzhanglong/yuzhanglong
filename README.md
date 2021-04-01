@@ -7,8 +7,6 @@
 - 📫 How to reach me **yuzl1123@163.com**
 
 
-### 📊 Github stats
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
