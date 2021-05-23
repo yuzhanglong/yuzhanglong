@@ -10,4 +10,4 @@
 - 📫 How to reach me **yuzl1123@163.com**
 
 
-<a href="https://github.com/yuzhanglong"><img alt="Yuzhanglong's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yuzhanglong&bg_color=transparent&color=5BCDEC&line=5BCDEC&point=5BCDEC&hide_border=true"/></a>
+<a href="https://github.com/yuzhanglong"><img alt="Yuzhanglong's Activity Graph" src="./github-metrics.svg"/></a>
