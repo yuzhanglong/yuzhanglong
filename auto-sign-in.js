@@ -4057,7 +4057,7 @@ axios.post('http://yqdj.zucc.edu.cn/feiyan_api/examen/examenAnswerController/com
   },
   {
     headers: {
-      'Cookie': process.env.SCHOOL_TOKEN,
+      'Cookie': `JSESSIONID=￥${process.env.SCHOOL_TOKEN}`,
     },
   },
 ).then(res => {
