@@ -13,4 +13,21 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}     
+  automatic-sign-in:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: '12'
+          
+      - name: Run Script
+        run: |
+          node ./auto-sign-in.js
+        env:
+          SCHOOL_TOKEN: ${{ secrets.SCHOOL_TOKEN }}
