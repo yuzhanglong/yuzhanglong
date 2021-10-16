@@ -10,7 +10,7 @@
    🌱 I’m enthusiastic about front-end development
 </div>
 <h5 align="center">
-   📫 How to reach me yuzl1123@163.com
+   📫 How to reach me loveyzl1123@gmail.com
 </div>
  
    
