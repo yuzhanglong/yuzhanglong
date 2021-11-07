@@ -12,11 +12,3 @@
 <h5 align="center">
    📫 How to reach me loveyzl1123@gmail.com
 </div>
- 
-   
-
-
-
-<div align="center">
-<a href="https://github.com/yuzhanglong" ><img alt="Yuzhanglong's Activity Graph" src="./github-metrics.svg"/></a>
-</div>
