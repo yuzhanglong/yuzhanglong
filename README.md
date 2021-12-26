@@ -17,4 +17,4 @@
 <br/>
 <br/>
 
-![www githubtrends io_wrapped_yuzhanglong (1)](https://user-images.githubusercontent.com/56540811/147407308-c2636230-63a4-4cae-beb2-329dd4175f52.png)
+![yuzhanglong](https://user-images.githubusercontent.com/56540811/147407453-dc9f93af-8f66-4cda-9869-911e9c92e656.png)
