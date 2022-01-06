@@ -1,0 +1,17 @@
+{
+  "name": "yuzhanglong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuzhanglong/yuzhanglong.git",
+  "author": "yuzhanglong <yuzl1123@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@attachments/github-trending": "^0.1.29",
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^16.2.13",
+    "jsdom": "^18.1.0"
+  }
+}
