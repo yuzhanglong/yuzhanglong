@@ -1,1 +1,17 @@
+name: 'GitHub Daily Trending Bot'
 
+on:
+  push:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v1
+      - name: 'Get Trending'
+        run: yarn install && node get-github-trending.js
+        env:
+          LARK_ROBOT_HOOKS_URL: ${{ secrets.LARK_ROBOT_HOOKS_URL }}

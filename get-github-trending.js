@@ -8,6 +8,8 @@ const runApp = async () => {
     period: 'week',
   });
 
+  console.log(trending);
+
   const feData = [].concat(trending['java'].slice(0, 10)).concat(trending['javascript'].slice(0, 5)).concat(trending['typescript'].slice(0, 5));
 
   const trendingDataPerLanguage = feData.map((item) => {
@@ -25,7 +27,7 @@ const runApp = async () => {
     ]
   });
 
-  const res = await axios.post(`${core.getInput('robotHooksUrl')}`, {
+  const res = await axios.post(`${process.env['LARK_ROBOT_HOOKS_URL']}`, {
     "msg_type": "interactive",
     card: {
       "config": {
@@ -37,7 +39,7 @@ const runApp = async () => {
       "header": {
         "template": "blue",
         "title": {
-          "content": "🎉 今日 GitHub Trending, 每天上午 9:00 更新 🎉",
+          "content": "🎉 今日 GitHub Trending, 每天中午更新 🎉",
           "tag": "plain_text"
         }
       }
