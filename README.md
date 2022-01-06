@@ -10,13 +10,11 @@
    🌱 I’m enthusiastic about front-end development
 </div>
 <h5 align="center">
-   📫 How to reach me yuzl1123@163.com
+   📫 How to reach me loveyzl1123@gmail.com
 </div>
- 
-   
 
+<br/>
+<br/>
+<br/>
 
-
-<div align="center">
-<a href="https://github.com/yuzhanglong" ><img alt="Yuzhanglong's Activity Graph" src="./github-metrics.svg"/></a>
-</div>
+![yuzhanglong](https://user-images.githubusercontent.com/56540811/147407453-dc9f93af-8f66-4cda-9869-911e9c92e656.png)
