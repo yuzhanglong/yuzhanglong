@@ -13,8 +13,6 @@
    📫 How to reach me loveyzl1123@gmail.com
 </div>
 
-<br/>
-<br/>
-<br/>
-
-![yuzhanglong](https://user-images.githubusercontent.com/56540811/147407453-dc9f93af-8f66-4cda-9869-911e9c92e656.png)
+<h5 align="center">
+  😁 My Blog: <a href="http://blog.yuzzl.top">blog.yuzzl.top</a>
+</div>
