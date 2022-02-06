@@ -8,6 +8,7 @@
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@attachments/github-trending": "^0.1.29",
+    "@larksuiteoapi/allcore": "^1.0.14",
     "axios": "^0.24.0"
   },
   "devDependencies": {
