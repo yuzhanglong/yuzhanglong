@@ -17,4 +17,5 @@
   
 - 相关链接：
   - GitHub：https://github.com/yuzhanglong
-  - 邮箱：loveyzl1123@gmail.com
+  - email：loveyzl1123@gmail.com
+  - WeChat: yuzhanglong2000
