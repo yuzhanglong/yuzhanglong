@@ -16,6 +16,7 @@
   - 2022.1 - 2022.9，蚂蚁集团，体验技术部，前端开发实习生。
   
 - 相关链接：
+  - **Blog: blog.yuzzl.top**
   - GitHub：https://github.com/yuzhanglong
   - Email：loveyzl1123@gmail.com
   - WeChat: yuzhanglong2000
