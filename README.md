@@ -10,4 +10,4 @@
   - **Blog: https://blog.yuzzl.top**
   - GitHub：https://github.com/yuzhanglong
   - Email：loveyzl1123@gmail.com
-  - WeChat: yuzhanglong2000
+  - WeChat: yzl_50w
