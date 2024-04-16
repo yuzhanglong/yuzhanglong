@@ -7,7 +7,7 @@
   - 2023.7 - 至今（校招），字节跳动，互娱研发 - 直播，前端开发工程师，负责开发抖音直播相关业务以及 C 端工程化建设。
   
 - 相关链接：
-  - **Blog: https://blog.yuzzl.top**
+  - **Blog: [点我访问](https://yuzhanglong.feishu.cn/wiki/wikcnbXoPpCtrmitcngZFjkUl9i)**
   - GitHub：https://github.com/yuzhanglong
   - Email：loveyzl1123@gmail.com
   - WeChat: yzl_50w
